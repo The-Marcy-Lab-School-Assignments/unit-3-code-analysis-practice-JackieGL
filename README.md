@@ -23,3 +23,6 @@ forEach(['a', 'b', 'c'], console.log);
 <hr>
 
 Your explanation here...
+* The code will log the values of "a","b","c" when the forEach function gets invoked.
+* When the "forEach" function is invoked it iterates through the array and prints the values if "i". The values that 
+are provided as arguments are an array and a function "console.log". The "forEach" use the provided arguments by using a for loop
